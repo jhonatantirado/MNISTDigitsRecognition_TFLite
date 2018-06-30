@@ -2,7 +2,7 @@
 
 Basado en: https://github.com/nex3z/tflite-mnist-android
 
-This project demonstrates how to use [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite) on Android for handwritten digits classification from MNIST.
+Este proyecto demuestra como usar [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite) en Android para reconocimiento de dígitos escritos a mano usando el conjunto de datos MNIST.
 
 <div align="center">
   <img src="image/demo.gif" heigit="500"/>
@@ -12,8 +12,8 @@ This project demonstrates how to use [TensorFlow Lite](https://github.com/tensor
 
 ### Requirement
 
-- Python 3.6, TensorFlow 1.8.0
-- Android Studio 3.0, Gradle 4.1
+- Python 3.5, TensorFlow 1.8.0
+- Android Studio 3.1.3, Gradle 4.4
 - Linux or macOS if you want to convert the model to .tflite as described in the [Step 2](#step-2-model-conversion) below
 
 
