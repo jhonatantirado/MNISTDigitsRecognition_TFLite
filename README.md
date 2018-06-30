@@ -1,5 +1,7 @@
 # MNIST with TensorFlow Lite on Android
 
+Basado en: https://github.com/nex3z/tflite-mnist-android
+
 This project demonstrates how to use [TensorFlow Lite](https://github.com/tensorflow/tensorflow/tree/master/tensorflow/contrib/lite) on Android for handwritten digits classification from MNIST.
 
 <div align="center">
